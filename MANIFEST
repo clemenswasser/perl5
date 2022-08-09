@@ -6313,6 +6313,7 @@ win32/bin/perlglob.pl		Win32 globbing
 win32/bin/pl2bat.pl		wrap perl scripts into batch files
 win32/bin/runperl.pl		run perl script via batch file namesake
 win32/bin/search.pl		Win32 port
+win32/CMakeLists.txt	Win32 CMake Buildsystem
 win32/config.gc			Win32 base line config.sh (MinGW build)
 win32/config.vc			Win32 base line config.sh (Visual C++ build)
 win32/config_H.gc		Win32 config header (MinGW build)
